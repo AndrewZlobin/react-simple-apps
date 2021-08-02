@@ -1,2 +1,3 @@
-# react-simple-shopping-basket
-Simple shopping basket (last step in online shop) on React (tutorials by Mosh)
+## Simple apps on React:
+ - [x] React Tutorial for Begginers by `Programming with Mosh`;
+ - [ ] Calculator on React with Hooks and Context API;
